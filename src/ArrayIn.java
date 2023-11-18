@@ -17,7 +17,7 @@ public class ArrayIn {
     }
 
     public static void printArray(int[] arr){
-        System.out.print("The sorted number are: ");
+        System.out.print("The sorted numbers are: ");
         for(int j : arr){
             System.out.print(j + " ");
         }
